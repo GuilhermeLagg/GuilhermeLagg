@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Alessandro Almeida Lagares, tenho 24 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de Informação no IFMG Ouro Branco. Busco aprender, cada dia mais, sobre tecnologia e tentar aplicar esses conhecimentos em situações reais para ajudar pessoas e negócios. Sou um desenvolvedor fullstack em aprendizado, buscando desenvolver projetos para aprimorar minhas habilidades e aprofundar meus conhecimentos em aplicações web.
+Me chamo Guilherme Alessandro Almeida Lagares, tenho 25 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de Informação no IFMG Ouro Branco. Busco aprender, cada dia mais, sobre tecnologia e tentar aplicar esses conhecimentos em situações reais para ajudar pessoas e negócios. Sou um desenvolvedor fullstack em aprendizado, buscando desenvolver projetos para aprimorar minhas habilidades e aprofundar meus conhecimentos em aplicações web.
 
 <p align="left">
     <a href="guiletealmeida@gmail.com">
